@@ -5,7 +5,7 @@
 
 // STEP 1: Create a variable called userAge (number)
 //         with the age of the user.
-
+let userAge = 20;
 // STEP 2: Create a variable called hasTicket (boolean)
 //         that is true if the user has a ticket, false otherwise.
 
